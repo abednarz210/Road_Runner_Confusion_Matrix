@@ -1,11 +1,15 @@
-# Tableau_CitiBike
+# Power  Bi 
 
 ![Image of World Hapiness](https://loving-newyork.com/wp-content/uploads/2017/07/Citi-Bike-New-York-180426115904002-1600x800.jpg)
 
-## Citibike September 2021, Q3 
+## Task 
 
-
-![image](resourcesTableau/Population%20and%20Ridership.png)
+* Import Data Set to Power Bi 
+* Transform Data and Create New Columns
+* Update Applied Step Naming Conventions
+* Create Measures 
+*
+* ![image](resourcesTableau/Population%20and%20Ridership.png)
 
 ### Population 
 
