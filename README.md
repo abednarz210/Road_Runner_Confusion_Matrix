@@ -1,16 +1,23 @@
 # Power  Bi 
+![alt text](https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png)
 
-
-## Task 
+### Task 
 
 * Import Data Set to Power Bi 
-* Transform Data and Create New Columns
+* Transform Data
+* Create New Columns
+* Update Field Types 
 * Update Applied Step Naming Conventions
 * Create Measures 
-*
-* 
+* Render Report 
+
+
+
 * ![image](RR_Resources/RR1_16_8197.png)
-*
+
+
+
+
 * ![image](RR_Resources/RR2_FN_4100.png)
 
 
