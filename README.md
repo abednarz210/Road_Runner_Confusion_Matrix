@@ -1,6 +1,6 @@
 # Power  Bi 
 
-![Image of Confusion Matrix]([https://loving-newyork.com/wp-content/uploads/2017/07/Citi-Bike-New-York-180426115904002-1600x800.jpg](https://blog.roboflow.com/content/images/2022/11/confussion-matrix-2.png)
+![image](RR_Resources/Measures_RR1.png)
 
 ## Task 
 
@@ -9,10 +9,11 @@
 * Update Applied Step Naming Conventions
 * Create Measures 
 *
-* ![image](RR_Resources/Measures_RR1.png)
+* 
 * ![image](RR_Resources/RR1_16_8197.png)
+*
 * ![image](RR_Resources/RR2_FN_4100.png)
-* ![image](RR_Resources/RR_3.png)
+
 
 
 
@@ -23,7 +24,7 @@
 * The dataset contained more than 6 million transactions.  
 
 
-
+![image](RR_Resources/RR_3.png)
 
 
 ## Evidentially AI
