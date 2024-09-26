@@ -22,7 +22,7 @@
 * The report leverages this dataset to demonstrate the process of fraud analysis, including the interpretation of a confusion matrix to assess prediction outcomes.
 * The dataset comprises over 6 million transactions, providing a rich foundation for analysis.
   
-Despite achieving a precision of 100% in predicting fraud, the model's recall rate was notably low at 0.391%, correctly identifying only 16 confirmed fraudulent transactions in the category of Transfer out of 6,362,620 total transactions. This discrepancy highlights the model's limitations in capturing true positives.
+Despite achieving a precision of 100% in predicting fraud, the model's recall rate was notably low at 0.391%, correctly identifying only 16 confirmed fraudulent transactions in the category of Transfer out of 6,362,620 total transactions. This discrepancy highlights the model's limitations in recall rate. 
 
 ###
 
