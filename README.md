@@ -11,11 +11,9 @@
 * Create Measures to perform calculations
 * Render Report to visualize findings
 
-
-![Image](RR_Resources/Transform Data in Power Bi_.png))
-![alt text](RR_Resources/Transform Data in Power Bi_.png).)
-
 ![image](RR_Resources/RR2_FN_4100.png)
+
+![image](RR_Resources/RR1_16_8197.png)
 
 
 ## Considerations
@@ -28,8 +26,7 @@ Despite achieving a precision of 100% in predicting fraud, the model's recall ra
 
 ###
 
-
-![image](RR_Resources/RR_3.png)
+![image](RR_Resources/RR_4.png)
 
 
 ## Evidentially AI
