@@ -3,31 +3,30 @@
 
 ### Task 
 
-* Import Data Set to Power Bi 
-* Transform Data
-* Create New Columns
-* Update Field Types 
-* Update Applied Step Naming Conventions
-* Create Measures 
-* Render Report 
+* Import Dataset into Power BI
+* Transform Data for optimal analysis
+* Create New Columns to enhance insights
+* Update Field Types for accuracy
+* Establish Naming Conventions for Applied Steps
+* Create Measures to perform calculations
+* Render Report to visualize findings
 
 
+![Image](RR_Resources/Transform Data in Power Bi_.png))
+![alt text](RR_Resources/Transform Data in Power Bi_.png).)
 
-* ![image](RR_Resources/RR1_16_8197.png)
-
-
-
-
-* ![image](RR_Resources/RR2_FN_4100.png)
-
-
+![image](RR_Resources/RR2_FN_4100.png)
 
 
 ## Considerations
 
-* The Data set is a practice data set that allows users to create or test models for Financial Fraud Detections and for illustrative purposes only.
-* I used this data aset to demostrate fraud analysis and how to interpret a confusion matrix for flagging fraud and testing the predication outcomes.
-* The dataset contained more than 6 million transactions.  
+* The dataset used is a practice dataset intended for educational and illustrative purposes, specifically designed for financial fraud detection analysis.
+* The report leverages this dataset to demonstrate the process of fraud analysis, including the interpretation of a confusion matrix to assess prediction outcomes.
+* The dataset comprises over 6 million transactions, providing a rich foundation for analysis.
+  
+Despite achieving a precision of 100% in predicting fraud, the model's recall rate was notably low at 0.391%, correctly identifying only 16 confirmed fraudulent transactions in the category of Transfer out of 6,362,620 total transactions. This discrepancy highlights the model's limitations in capturing true positives.
+
+###
 
 
 ![image](RR_Resources/RR_3.png)
