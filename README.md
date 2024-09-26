@@ -1,6 +1,5 @@
 # Power  Bi 
 
-![image](RR_Resources/Measures_RR1.png)
 
 ## Task 
 
