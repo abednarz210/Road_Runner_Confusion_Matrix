@@ -1,5 +1,5 @@
 # Power  Bi 
-![alt text](https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png)
+![alt text](https://th.bing.com/th/id/OIP.perUvYXHjEagQZb1opY7JAAAAA?rs=1&pid=ImgDetMain))
 
 ### Task 
 
