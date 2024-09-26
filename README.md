@@ -34,6 +34,12 @@ Mileage: Maintenance and Repair crews should be directed to heavily trafficked r
 Maintenance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue up 
 improve the useability and access of Citibike for both membership types. 
 
+### Images and Data Set
+
+Confusion Matrix: https://www.evidentlyai.com/classification-metrics/confusion-matrix#:~:text=A%20confusion%20matrix%20is%20a%20table
+Data Set https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
+
+
 
 
 
