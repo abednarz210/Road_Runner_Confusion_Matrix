@@ -9,35 +9,34 @@
 * Update Applied Step Naming Conventions
 * Create Measures 
 *
-* ![image](resourcesTableau/Population%20and%20Ridership.png)
+* ![image](RR_Resources/Measures_RR1.png)
+* ![image](RR_Resources/RR1_16_8197.png)
+* ![image](RR_Resources/RR2_FN_4100.png)
+* ![image](RR_Resources/RR_3.png)
 
-### Population 
+
 
 ## Considerations
 
-* Population density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to outperform by mileage.  
-
-* Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Increase resources to increase rider membership versus casual trips at lower-performing stations.
-
-### Ridership 
-![image](resourcesTableau/Ridership%20by%20Station.png)
+* The Data set is a practice data set that allows users to create or test models for Financial Fraud Detections and for illustrative purposes only.
+* I used this data aset to demostrate fraud analysis and how to interpret a confusion matrix for flagging fraud and testing the predication outcomes.
+* The dataset contained more than 6 million transactions.  
 
 
-### Considerations
 
-Mileage: Maintenance and Repair crews should be directed to heavily trafficked routes. 
 
- * Bergan & Stegman Street ending at Lincoln Park 82,852 miles
- * Astor Place to Grove Street Path 53,836 miles 
- * Union St and ending at Grand St 24,849 miles 
- 
-Maintenance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue up 
-improve the useability and access of Citibike for both membership types. 
 
-### Images and Data Set
+## Evidentially AI
+
+To learn more about the confusion matrix for Machine learning models:
 
 Confusion Matrix: https://www.evidentlyai.com/classification-metrics/confusion-matrix#:~:text=A%20confusion%20matrix%20is%20a%20table
-Data Set https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
+
+
+## Financial Fraud Detection Dataset
+
+To learn more about the Data Set visit: 
+https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
 
 
 
